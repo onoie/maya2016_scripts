@@ -1,0 +1,5 @@
+//helloWorld();
+global proc helloWorld()
+{
+	print "Hello World !!";
+}
